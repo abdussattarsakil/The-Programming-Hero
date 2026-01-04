@@ -1,0 +1,24 @@
+form .block label {
+            display: block;
+            /* margin-top: 7px; */
+        }
+h1{text-align:center ;}
+fieldset{
+    background-color: rgb(209, 228, 222);
+}
+form{
+    text-align: center
+}
+label{color: rgb(10, 33, 116);}
+legend{
+    color: rgb(231, 9, 9);
+}
+#right-side{
+    text-align: right;
+}
+#left{
+    text-align: left;
+}
+footer{
+    text-align: end;
+}
